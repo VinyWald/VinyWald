@@ -26,14 +26,9 @@
 <td style="border: none;"> 
 <a href="#_"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinywald&layout=compact&langs_count=20&hide_progress=true&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=00FF41" /></a> 
 </td> 
-<td style="border: none;" align="center" valign="middle"> 
-<div align="center">
-<a href="https://vinywald.github.io/portfolio">
-  <img height="80" src="./assets/chicken.gif" alt="Animação Portfólio" /><br>
-  <sub>clique para ver meu portfólio!</sub>
-</a> 
-</div>
-</td>
+<td style="border: none;"> 
+<a href="https://vinywald.github.io/portfolio"><img height="80" src="./assets/chicken.gif" alt="Animação" /></a> 
+</td> 
 </tr> 
 </table> 
 </p>
