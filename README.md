@@ -19,4 +19,11 @@
 
 <br>
 
-<p align="center"> <table> <tr> <td> <img height="160" src="https://github-readme-stats.vercel.app/api?username=vinywald&showicons=true&hideborder=true&bgcolor=0d1117&titlecolor=00FF41&textcolor=00FF41&iconcolor=00FF41" /> </td> <td> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinywald&layout=compact&hideborder=true&bgcolor=0d1117&titlecolor=00FF41&textcolor=00FF41" /> </td> <td> <img height="80" src="./assets/chicken.gif" alt="Animação" /> </td> </tr> </table> </p>
+<p align="center"> <table> <tr> <td> <img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api?username=vinywald&show_icons=true&include_all_commits=true&hide=contribs&show=prs,reviews&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=00FF41&icon_color=00FF41&ring_color=00FF41&rank_icon=github&number_format=long"
+/> </td> <td> <img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinywald&layout=compact&langs_count=20&hide_progress=true&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=00FF41"
+ /> </td> <td> <img height="80" src="./assets/chicken.gif" alt="Animação" /> </td> </tr> </table> </p>
+
