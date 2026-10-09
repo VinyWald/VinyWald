@@ -4,13 +4,11 @@
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<table border="0" cellspacing="0" cellpadding="0"> <tr> <td width="50%" valign="top" style="border: none;">
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=60&pause=600&color=00FF41&background=000000&width=400&height=36&repeat=false&lines=%3E+./profissional.sh" alt="> ./profissional.sh" />
 <img src="./assets/profissional.svg" alt="Terminal profissional: linguagens, ferramentas, idiomas e certificados" width="100%" />
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border: none;">
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=60&pause=600&color=00FF41&background=000000&width=400&height=36&repeat=false&lines=%3E+./pessoal.sh+--lab" alt="> ./pessoal.sh --lab" />
 <img src="./assets/pessoal.svg" alt="Terminal pessoal: interesses e projetos de lab" width="100%" />
 </td>
