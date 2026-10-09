@@ -30,7 +30,7 @@
 <div align="center">
 <a href="https://vinywald.github.io/portfolio">
   <img height="80" src="./assets/chicken.gif" alt="Animação Portfólio" /><br>
-  <sub><font color="#00FF41">clique para ver meu portfólio!</font></sub>
+  <sub>clique para ver meu portfólio!</sub>
 </a> 
 </div>
 </td>
